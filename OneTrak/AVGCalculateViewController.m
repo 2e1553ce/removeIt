@@ -26,7 +26,7 @@
 
 @implementation AVGCalculateViewController
 
-#pragma mark - Initialization
+#pragma mark - VC life cycle
 
 - (void)viewDidLoad {
     [super viewDidLoad];
